@@ -1,2 +1,2 @@
-# UniversityManagementSystem
-Capgemini Mini Project on University Management
+# UniversityAdmissionSystem
+Capgemini Mini Project on University Admission Management
