@@ -26,7 +26,7 @@
  Date_Of_Interview DATE);
  
  CREATE TABLE Users(
- login_id VARCHAR2(5),
+ login_id VARCHAR2(5) UNIQUE,
  password VARCHAR2(10),
  role VARCHAR2(5));
 
